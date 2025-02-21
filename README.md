@@ -11,3 +11,6 @@ A brief showcase of the curriculum:
 
 **Lab**:  
 The course lab covers the instruction set architecture and symbolic language programming of the MIPS processor, using the MARS simulator.  
+
+The first few lab course were introductory and mostly about how the memory of MIPS works.  
+From the 4th course onwards we started writing code.
