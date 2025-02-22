@@ -1,5 +1,5 @@
 #Modification of the previous program
-#Theu ser specifies how many times the * char gets printed
+#The user specifies how many times the * char gets printed
 
 .data
 char: .byte '*'
